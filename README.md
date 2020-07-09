@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on JavaScript
+- 🔭 UI Engineer
+- 💬 JavaScript, React, HTML, CSS, GraphQL, Serverless
