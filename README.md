@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 UI Engineer
-- 💬 JavaScript, React, HTML, CSS, GraphQL, Serverless, Typescript
+- 🔭 Software Engineer
+- 💬 JavaScript, React, HTML, CSS, GraphQL, Serverless, Typescript, NodJs, Express, Web Development
